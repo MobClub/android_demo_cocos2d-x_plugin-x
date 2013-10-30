@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Core-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Douban-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Dropbox-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Email-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Evernote-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Facebook-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Flickr-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Foursquare-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-GooglePlus-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Instagram-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-KaiXin-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Linkedin-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-NetEaseMicroBlog-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Pinterest-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-QQ-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-QZone-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Renren-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-ShortMessage-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-SinaWeibo-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-SohuSuishenkan-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-SouhuMicroBlog-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-TencentWeibo-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Tumblr-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Twitter-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-VKontakte-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Wechat-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Wechat-Core-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-Wechat-Moments-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/ShareSDK-YouDao-2.1.2.jar"/>
+	<classpathentry kind="lib" path="sdk/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="sdk/mframework.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
